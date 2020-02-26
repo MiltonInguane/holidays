@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ano Novo",
+    "description": "O Dia do Ano Novo marca o início de um novo ano no calendário gregoriano. Este calendário foi introduzido pela primeira vez pelo Papa Gregório XIII em 1582.",
+    "date": "01-jan",
+    "day": 1,
+    "month": "january"
+  },
+  {
+    "id": 2,
+    "name": "Dia dos Heróis Moçambicanos",
+    "description": "Em homenagem a Eduardo Mondlane ",
+    "date": "03-feb",
+    "day": 3,
+    "month": "february"
+  },
+  {
+    "id": 3,
+    "name": "Dia da Mulher Moçambicana",
+    "description": "Em homenagem a Josina Machel ",
+    "date": "07-april",
+    "day": 7,
+    "month": "april"
+  },
+  {
+    "id": 4,
+    "name": "Dia Internacional dos Trabalhadores",
+    "description": "",
+    "date": "01-may",
+    "day": 1,
+    "month": "may"
+  },
+  {
+    "id": 5,
+    "name": "Dia da Independência Nacional",
+    "description": "",
+    "date": "25-june",
+    "day": 25,
+    "month": "june"
+  },
+  {
+    "id": 6,
+    "name": "Dia da Vitória",
+    "description": "Em homenagem à assinatura dos Acordos de Lusaka ",
+    "date": "07-september",
+    "day": 7,
+    "month": "september"
+  },
+  {
+    "id": 7,
+    "name": "Dia das Forças Armadas",
+    "description": "Em homenagem ao início da Luta Armada de Libertação Nacional ",
+    "date": "25-september",
+    "day": 25,
+    "month": "september"
+  },
+  {
+    "id": 8,
+    "name": "Dia da Paz e Reconciliação",
+    "description": "",
+    "date": "04-october",
+    "day": 4,
+    "month": "october"
+  },
+  {
+    "id": 9,
+    "name": "Dia da Família",
+    "description": "",
+    "date": "25-december",
+    "day": 10,
+    "month": "december"
+  }
+]
